@@ -3,7 +3,14 @@
 
 from aocd import get_data
 
-example = "3   4\n4   3\n2   5\n1   3\n3   9\n3   3"
+example = """
+3   4
+4   3
+2   5
+1   3
+3   9
+3   3
+"""
 data = get_data(year=2024, day=1)
 
 def sorted_lists(data):

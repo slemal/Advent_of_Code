@@ -32,5 +32,3 @@ if __name__ == "__main__":
     print(part2(example))
     print(part1(data))
     print(part2(data))
-
-    

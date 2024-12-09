@@ -3,5 +3,5 @@
 
 from aocd import get_data
 
-data = get_data(year=2024, day=1)
+data = get_data(year=2024, day=x)
 
